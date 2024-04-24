@@ -9,4 +9,6 @@ refer to the blame but modedify the number of samples.
 https://github.com/jiajunsi/RCML/blob/main/loss_function.py#L23
 
 refer to the edl_loss.
+## DS-rule for aggregation
+
 ## main.py
